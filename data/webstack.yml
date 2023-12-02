@@ -1,0 +1,22 @@
+---
+
+- taxonomy: VPS
+  icon: fa-newspaper-o
+  links: 
+    - title: vmiss
+      logo: 
+      url: https://app.vmiss.com/aff.php?aff=608
+      description: vmiss
+    - title: greencloudvps
+      logo: 
+      url: https://greencloudvps.com/billing/aff.php?aff=6319
+      description: greencloudvps
+    - title: cloudcone
+      logo: 
+      url: https://app.cloudcone.com/?ref=10708
+      description: cloudcone
+    - title: colocrossing
+      logo: 
+      url: https://cloud.colocrossing.com/aff.php?aff=279
+      description: colocrossing
+
