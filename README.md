@@ -1,6 +1,7 @@
-# nav
+# 导航
 
 update `webstack.yml`
+
 
 ```
 - taxonomy: 常用推荐
@@ -20,3 +21,16 @@ update `webstack.yml`
       url: 
       description: 
 ```      
+
+
+# 获取favicon
+
+api： https://api.iowen.cn/doc/favicon.html
+
+必须以`.png`结尾。
+
+eg: `https://api.iowen.cn/favicon/greencloudvps.com.png`
+
+# 参考资料
+
+-  https://github.com/shenweiyan/Knowledge-Garden/discussions/10
