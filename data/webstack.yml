@@ -1,22 +1,107 @@
 ---
 
 - taxonomy: VPS
-  icon: fa-newspaper-o
-  links: 
-    - title: vmiss
-      logo: 
-      url: https://app.vmiss.com/aff.php?aff=608
-      description: vmiss
-    - title: greencloudvps
-      logo: 
-      url: https://greencloudvps.com/billing/aff.php?aff=6319
-      description: greencloudvps
-    - title: cloudcone
-      logo: 
-      url: https://app.cloudcone.com/?ref=10708
-      description: cloudcone
-    - title: colocrossing
-      logo: 
-      url: https://cloud.colocrossing.com/aff.php?aff=279
-      description: colocrossing
+  icon: fa-desktop
+  list:
+    - term: VPS资讯
+      links: 
+        - title: hostloc
+          logo: 
+          url: https://hostloc.com/forum-45-1.html?d=4
+          description: 全球主机论坛
+        - title: vps小白
+          logo: 
+          url: https://vpsxb.net/
+          description: 
+        - title: 虎窝
+          logo: 
+          url: https://blog.ahu.moe/
+          description: 小众vps
+        - title: 猫不腻
+          logo: 
+          url: https://maobuni.com/
+          description: 小众vps  
+        - title: 主机测评
+          logo: 
+          url: https://www.zhujiceping.com/
+          description:             
+        - title: vps小学生
+          logo: 
+          url: http://www.vpsxxs.com/
+          description: 
+        - title: v2ex vps节点
+          logo: 
+          url: https://www.v2ex.com/go/vps?p=1
+          description: 
 
+
+    - term: VPS厂商
+      links: 
+        - title: vmiss
+          logo: 
+          url: https://app.vmiss.com/aff.php?aff=608
+          description: 
+        - title: greencloudvps
+          logo: 
+          url: https://greencloudvps.com/billing/aff.php?aff=6319
+          description: 
+        - title: cloudcone
+          logo: 
+          url: https://app.cloudcone.com/?ref=10708
+          description: 
+        - title: colocrossing
+          logo: 
+          url: https://cloud.colocrossing.com/aff.php?aff=279
+          description: 
+
+
+- taxonomy: 网络工具
+  icon: fa-wifi
+  links: 
+    - title: itdog
+      logo: 
+      url: https://www.itdog.cn/traceroute
+      description: 在线traceroute
+    - title: ipv6.stream
+      logo: 
+      url: https://ipv6.stream/    
+      description: IPv6 测试聚合站
+
+
+- taxonomy: IT资讯
+  icon: fas fa-rss
+  links: 
+    - title: 阮一峰
+      logo: 
+      url: https://ruanyifeng.com/
+      description: 
+    - title: v2ex
+      logo: 
+      url: https://v2ex.com/
+      description:       
+
+- taxonomy: 影视
+  icon: fa-solid fa-film
+  links: 
+    - title: 海绵小站
+      logo: 
+      url: https://www.kkapik.com/
+      description: 
+    - title: 海绵小站 alist
+      logo: 
+      url: https://alist.kkapik.com/  
+      description:       
+    - title: 海绵小站（备用）
+      logo: 
+      url: https://haimian.eu.org/
+      description:       
+    - title: 电影港
+      logo: 
+      url: https://www.dygang.tv/
+      description:    
+    - title: 阿里云盘资源
+      logo: 
+      url: https://yunpan1.cc/
+      description:     
+
+ 

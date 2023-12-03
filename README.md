@@ -13,13 +13,15 @@ update `webstack.yml`
       description: 
 
 
-- taxonomy: 社区咨询
-  icon: fa-newspaper-o
-  links: 
-    - title: xxx
-      logo: 
-      url: 
-      description: 
+- taxonomy: xxx
+  icon: fas fa-flask fa-lg
+  list:
+    - term: xxxx
+      links:
+        - title: 
+          logo: 
+          url: 
+          description: 
 ```      
 
 
