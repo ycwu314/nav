@@ -33,6 +33,12 @@ api： https://api.iowen.cn/doc/favicon.html
 
 eg: `https://api.iowen.cn/favicon/greencloudvps.com.png`
 
+
+# 查找 fontawesome icon
+
+项目使用的是v4图标： https://fontawesome.com/v4/icons/
+
+
 # 参考资料
 
 -  https://github.com/shenweiyan/Knowledge-Garden/discussions/10

@@ -62,25 +62,229 @@
       logo: 
       url: https://www.itdog.cn/traceroute
       description: 在线traceroute
+    - title: tcp.ping.pe
+      logo: 
+      url: https://tcp.ping.pe/ 
+      description: 被q检测
     - title: ipv6.stream
       logo: 
       url: https://ipv6.stream/    
       description: IPv6 测试聚合站
+    - title: ipv6ready.me
+      logo: 
+      url: http://ipv6ready.me/
+      description: IPv6 测试
+    - title: ping0.cc
+      logo: 
+      url: https://ping0.cc/vpsmon/5day
+      description: 全球小鸡监控
+    - title: BGP Toolkit Home
+      logo: 
+      url: https://bgp.he.net/
+      description: HE.net 提供的工具集合
+    - title: 在线dig
+      logo: 
+      url: https://www.diggui.com/
+      description: 
 
 
-- taxonomy: IT资讯
+- taxonomy: 其他工具
+  icon: fa-solid fa-wrench
+  links: 
+    - title: ascii画图
+      logo: 
+      url: http://asciiflow.cn/
+      description: 
+    - title: 下1个好软件
+      logo: 
+      url: https://x1g.la/
+      description: 分享实用好玩软件
+    - title: 那些免费的砖
+      logo: 
+      url: https://www.thosefree.com/apps
+      description: 优雅地白嫖各种免费资源
+
+    - title: jetbrains 全家桶
+      logo: 
+      url: http://jets.idejihuo.com/
+      description: 
+    - title: qq浏览器工具箱
+      logo: 
+      url: https://tool.browser.qq.com/
+      description:       
+    - title: 哈希工具
+      logo: 
+      url: https://crypto-online.cn/playground/hash
+      description:    
+
+- taxonomy: IT
   icon: fas fa-rss
   links: 
     - title: 阮一峰
       logo: 
       url: https://ruanyifeng.com/
       description: 
+  
     - title: v2ex
       logo: 
       url: https://v2ex.com/
-      description:       
+      description: 
+    - title: kk.org
+      logo: 
+      url: https://kk.org/#archives
+      description: 凯文·凯利（Kevin Kelly，网名KK）。硅谷精神教父。
+    - title: STEVE BLANK
+      logo: 
+      url: https://steveblank.com/#
+      description: 精益创业教父Steve Blank。硅谷连续创业者。
+    - title: inverse
+      logo: 
+      url: https://www.inverse.com/
+      description: Inverse是Bustle Digital Group的在线杂志，涵盖千禧一代受众的技术，科学和文化等主题。
+    - title: The Old New Thing
+      logo: 
+      url: https://devblogs.microsoft.com/oldnewthing/
+      description: 微软技术       
+    - title: acwifi
+      logo: 
+      url: https://www.acwifi.net/
+      description: 路由器交流         
+    - title: Top100 极术专栏
+      logo: 
+      url: https://aijishu.com/blogs/channel/all?page=1
+      description: 
+    - title: 秋水逸冰
+      logo: 
+      url: https://teddysun.com/
+      description:    
+    - title: leadership garden
+      logo: 
+      url: https://leadership.garden/
+      description:    
 
-- taxonomy: 电影
+
+
+- taxonomy: 学习
+  icon: fa-solid fa-graduation-cap
+  list:
+    - term: 架构设计
+      links:   
+        - title: 深入架构原理和实践
+          logo: 
+          url: https://www.thebyte.com.cn/
+          description:      
+        - title: 凤凰架构
+          logo: 
+          url: http://icyfenix.cn/summary/
+          description:     
+    - term: AI
+      links:   
+        - title: Practical Deep Learning
+          logo: 
+          url: https://course.fast.ai/
+          description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
+    - term: 其他
+      links: 
+        - title: 走遍美国 - 网易公开课
+          logo: 
+          url: https://open.163.com/newview/movie/courseintro?newurl=AEV4E6LV5
+          description: 
+        - title: 走出去公共服务平台
+          logo: 
+          url: http://fec.mofcom.gov.cn/article/gbdqzn/
+          description: 外贸数据
+        - title: Interactive Linear Algebra
+          logo: 
+          url: https://textbooks.math.gatech.edu/ila/index-1.html
+          description: 交互式学习线性代数
+        - title: Google Fonts
+          logo: 
+          url: https://fonts.google.com/knowledge
+          description: 
+        - title: 数据仓库 ODS & DWD & DWS & DWT & ADS
+          logo: 
+          url: https://www.cnblogs.com/shengyang17/p/10545198.html
+          description: 
+        - title: 设计模式
+          logo: 
+          url: https://refactoringguru.cn/design-patterns/catalog
+          description: 
+        - title: Learning Music
+          logo: 
+          url: https://learningmusic.ableton.com/zh-Hans/index.html
+          description: 音乐入门
+        - title: 实践「看板方法」：从任务管理到目标管理
+          logo: 
+          url: https://sspai.com/post/52797
+          description: 
+        - title: A Programmer's Introduction to Mathematics
+          logo: 
+          url: https://pimbook.org/
+          description: 
+        - title: Algorithms for Competitive Programming
+          logo: 
+          url: https://cp-algorithms.com/
+          description: 
+       
+        - title: CFC4N的博客
+          logo: 
+          url: http://www.cnxct.com/
+          description: ecapture作者的blog。信息安全，ebpf，etc
+        - title: 刘未鹏 | Mind Hacks
+          logo: 
+          url: http://mindhacks.cn/
+          description: 停更状态
+        - title: coolshell
+          logo: 
+          url: https://coolshell.cn/
+          description: 停更状态
+        - title: 云风的 BLOG
+          logo: 
+          url: https://blog.codingnow.com/
+          description: 游戏引擎 (c , lua)
+        - title: 美团技术团队
+          logo: 
+          url: https://tech.meituan.com/      
+          description: 
+        - title: 四火的唠叨
+          logo: 
+          url: https://www.raychase.net/
+          description: 技术大佬
+        - title: 期望最大化（洪亮劼的专栏）
+          logo: 
+          url: http://column.hongliangjie.com/
+          description: 技术大佬
+        - title: BimAnt
+          logo: 
+          url: http://www.bimant.com/blog/
+          description: 记录数字孪生的学习与实践，关注Revit、Bentley、Catia、Tekla、Midas、Rhino等各种主流BIM软件
+        - title: Frank Denneman
+          logo: 
+          url: https://frankdenneman.nl/
+          description: Chief Technologist VMware | Machine Learning | NUMA 
+        - title: Ivan on Containers, Kubernetes, and Server-side
+          logo: 
+          url: https://iximiuz.com/en/
+          description: Learning Containers, Kubernetes, and Backend Development with Ivan Velichko
+
+
+- taxonomy: 在线博物馆
+  icon: fa fa-university
+  links: 
+    - title: Google 艺术与文化
+      logo: 
+      url: https://artsandculture.google.com/
+      description: 
+    - title: 电脑博物馆
+      logo: 
+      url: http://www.compumuseum.com/
+      description: 
+    - title: Abort Retry Fail
+      logo: 
+      url: https://www.abortretry.fail/archive?sort=new
+      description: Abort Retry Fail is a publication that focuses on computing history.
+
+- taxonomy: 影视
   icon: fa-solid fa-film
   links: 
     - title: 海绵小站
@@ -103,6 +307,18 @@
       logo: 
       url: https://yunpan1.cc/
       description:     
+    - title: 阿里云盘 - 85部高码率美剧合集
+      logo: 
+      url: https://yunpan1.cc/d/8507-85
+      description:   
+    - title: 阿里云盘 - 资源大合集
+      logo: 
+      url: https://kuaikan.ink/thread-549.htm
+      description:   
+    - title: 阿里云盘 - 资源大合集 63T
+      logo: 
+      url: https://www.panpanr.top/thread-17453-1-1.html
+      description:   
     - title: 资源潭
       logo: 
       url: https://ziyuantan.com/
@@ -115,7 +331,11 @@
 - taxonomy: 音乐
   icon: fa-solid fa-music
   links:  
-    - title: soundcloud
+    - title: lofi.cae
+      logo: 
+      url: http://www.lofi.cafe/
+      description: Lofi music streams for studying, working, and relaxing.  
+    - title: SoundCloud
       logo: 
       url: https://soundcloud.com/
       description: 下载工具 https://github.com/flyingrub/scdl
@@ -131,6 +351,19 @@
       logo: 
       url: http://www.xyxz001.com/music/
       description: 用搜索引擎， xyxz + <关键字>
+    - title: 二次元虫洞
+      logo: 
+      url: http://www.2cycd.com/
+      description: 
+    - title: ACG漫音社
+      logo: 
+      url: http://www.acgjc.com/
+      description: 
+    - title: MusicEnc-Search
+      logo: 
+      url: https://www.musicenc.com/
+      description: 
+
 
 - taxonomy: 电子书
   icon: fa-solid fa-book
@@ -162,12 +395,16 @@
 
 
 - taxonomy: 健康
-  icon: 
+  icon: fa-solid fa-bicycle
   links:  
     - title: workout
       logo: 
       url: https://workout.lol/
       description: 一个有趣的网站，你先选择健身器械，然后选择要锻炼哪一块肌肉，它就告诉你应该用什么姿势锻炼（视频和图解）。
+    - title: darebee.com
+      logo: 
+      url: https://darebee.com/workouts.html
+      description: 2200+ workouts
     - title: 颈椎病康复指南
       logo: 
       url: https://github.com/AnsonZnl/RehabilitationGuide  
