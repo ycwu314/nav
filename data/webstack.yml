@@ -80,7 +80,7 @@
       url: https://v2ex.com/
       description:       
 
-- taxonomy: 影视
+- taxonomy: 电影
   icon: fa-solid fa-film
   links: 
     - title: 海绵小站
@@ -103,5 +103,74 @@
       logo: 
       url: https://yunpan1.cc/
       description:     
+    - title: 资源潭
+      logo: 
+      url: https://ziyuantan.com/
+      description: 解压密码 123456ABC    
+    - title: AnyBT
+      logo: 
+      url: https://anybt.eth.limo/
+      description: 磁力搜索
 
- 
+- taxonomy: 音乐
+  icon: fa-solid fa-music
+  links:  
+    - title: soundcloud
+      logo: 
+      url: https://soundcloud.com/
+      description: 下载工具 https://github.com/flyingrub/scdl
+    - title: 捌零PT80
+      logo: 
+      url: http://www.ptlinshi.top/
+      description: 
+    - title: 23ape
+      logo: 
+      url: http://www.23ape.net/
+      description: 无损音乐
+    - title: 夕阳小站
+      logo: 
+      url: http://www.xyxz001.com/music/
+      description: 用搜索引擎， xyxz + <关键字>
+
+- taxonomy: 电子书
+  icon: fa-solid fa-book
+  links:  
+    - title: 尔书
+      logo: 
+      url: https://www.ershu.org/
+      description: 
+    - title: calibre-web 
+      logo: 
+      url: http://81.70.150.176:8083/
+      description: 其他大佬架设的
+    - title: 大蓝莓
+      logo: 
+      url: https://www.dalanmei.com/
+      description:  EPUB电子书,AZW3电子书,MOBI电子书,KINDLE电子书,免费好用的电子书下载网站      
+    - title: SaltTiger 
+      logo: 
+      url: https://salttiger.com
+      description:  每天一本编程书
+    - title: fightlessbird 
+      logo: 
+      url: https://www.fightlessbird.com/
+      description:  虎奔深山，鸟奔林
+    - title: 阿里云盘，ePUBee整站
+      logo: 
+      url: https://www.aliyundrive.com/s/opE4d2gTn9g/folder/634432806b53c0073d9241ae95f9c8374ead8c4a
+      description:  ePUBee整站电子书
+
+
+- taxonomy: 健康
+  icon: 
+  links:  
+    - title: workout
+      logo: 
+      url: https://workout.lol/
+      description: 一个有趣的网站，你先选择健身器械，然后选择要锻炼哪一块肌肉，它就告诉你应该用什么姿势锻炼（视频和图解）。
+    - title: 颈椎病康复指南
+      logo: 
+      url: https://github.com/AnsonZnl/RehabilitationGuide  
+      description:  
+
+    
