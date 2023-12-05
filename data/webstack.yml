@@ -243,6 +243,11 @@
           logo: 
           url: https://mlc.ai/zh/
           description:  
+        - title: ML-For-Beginners
+          logo: 
+          url: https://github.com/microsoft/ML-For-Beginners
+          description: 微软出品的机器学习入门教程 
+
 
     - term: AI 工具
       links:             
@@ -266,6 +271,10 @@
           logo: 
           url: https://segment-anything.com/
           description:  
+        - title: replicate.com
+          logo: 
+          url: https://replicate.com/explore
+          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
 
 
 - taxonomy: Learning
