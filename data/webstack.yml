@@ -3,7 +3,7 @@
 - taxonomy: VPS
   icon: fa-desktop
   list:
-    - term: VPS资讯
+    - term: VPS info
       links: 
         - title: hostloc
           logo: 
@@ -33,29 +33,31 @@
           logo: 
           url: https://www.v2ex.com/go/vps?p=1
           description: 
+        - title: 便宜vps
+          logo: 
+          url: https://www.pianyivps.com/pianyivps
+          description: 
 
-
-    - term: VPS厂商
+    - term: VPS vendors
       links: 
         - title: vmiss
           logo: 
-          url: https://app.vmiss.com/aff.php?aff=608
+          url: https://app.vmiss.com/clientarea.php
           description: 
         - title: greencloudvps
           logo: 
-          url: https://greencloudvps.com/billing/aff.php?aff=6319
+          url: https://greencloudvps.com/billing/clientarea.php
           description: 
         - title: cloudcone
           logo: 
-          url: https://app.cloudcone.com/?ref=10708
+          url: https://app.cloudcone.com/login
           description: 
         - title: colocrossing
           logo: 
-          url: https://cloud.colocrossing.com/aff.php?aff=279
+          url: https://cloud.colocrossing.com/clientarea.php
           description: 
 
-
-- taxonomy: 网络工具
+- taxonomy: Network
   icon: fa-wifi
   links: 
     - title: itdog
@@ -87,8 +89,7 @@
       url: https://www.diggui.com/
       description: 
 
-
-- taxonomy: 其他工具
+- taxonomy: Misc tools
   icon: fa-solid fa-wrench
   links: 
     - title: ascii画图
@@ -103,7 +104,6 @@
       logo: 
       url: https://www.thosefree.com/apps
       description: 优雅地白嫖各种免费资源
-
     - title: jetbrains 全家桶
       logo: 
       url: http://jets.idejihuo.com/
@@ -116,8 +116,16 @@
       logo: 
       url: https://crypto-online.cn/playground/hash
       description:    
+    - title: offsec.tools
+      logo: 
+      url: https://offsec.tools/
+      description:  offsec.tools is a vast listing of security tools designed to help pentesters and bug hunters in their daily task.   
+    - title: awesome-selfhosted
+      logo: 
+      url: https://github.com/awesome-selfhosted/awesome-selfhosted
+      description: 
 
-- taxonomy: IT
+- taxonomy: Blog
   icon: fas fa-rss
   links: 
     - title: 阮一峰
@@ -133,6 +141,11 @@
       logo: 
       url: https://kk.org/#archives
       description: 凯文·凯利（Kevin Kelly，网名KK）。硅谷精神教父。
+    - title: Big Think - Smarter, Faster
+      logo: 
+      url: https://bigthink.com/
+      description: 提供来自各个领域的专家的采访和圆桌讨论。
+
     - title: STEVE BLANK
       logo: 
       url: https://steveblank.com/#
@@ -145,6 +158,15 @@
       logo: 
       url: https://devblogs.microsoft.com/oldnewthing/
       description: 微软技术       
+
+    - title: unchartedterritories
+      logo: 
+      url: https://unchartedterritories.tomaspueyo.com/
+      description: Understand the world of today to prepare for the world of tomorrow   
+    - title: mirror.xyz
+      logo: 
+      url: https://mirror.xyz/
+      description: 
     - title: acwifi
       logo: 
       url: https://www.acwifi.net/
@@ -157,17 +179,119 @@
       logo: 
       url: https://teddysun.com/
       description:    
-    - title: leadership garden
-      logo: 
-      url: https://leadership.garden/
-      description:    
+
+- taxonomy: Blockchain
+  icon: fa fa-btc
+  list:
+    - term: 学习
+      links:   
+        - title: 登链社区
+          logo: 
+          url: https://learnblockchain.cn/
+          description:      
+        - title: odaily
+          logo: 
+          url: https://www.odaily.news/
+          description:   
+        - title: Foresight News
+          logo: 
+          url: https://foresightnews.pro/
+          description:  FN精选
+        - title: The Kauri Archive
+          logo: 
+          url: https://kauri.io/
+          description:  
+        - title: WTF-Solidity 教程
+          logo: 
+          url: https://github.com/AmazingAng/WTF-Solidity
+          description:  
+        - title: 币安学院
+          logo: 
+          url: https://academy.binance.com/zh/articles
+          description:  
 
 
+    - term: 工具
+      links:   
+        - title: oklink浏览器
+          logo: 
+          url: https://www.oklink.com/cn
+          description:      
+        - title: gasnow
+          logo: 
+          url: https://mct.xyz/gasnow
+          description:
+        - title: chainlist.org
+          logo: 
+          url: https://chainlist.org/
+          description: Chainlist is a list of EVM networks.
+        - title: cointool 区块链工具合集
+          logo: 
+          url: https://cointool.app/dashboard
+          description:
 
-- taxonomy: 学习
+- taxonomy: AI
+  icon: fa fa-rocket
+  list:
+    - term: AI 教程
+      links:   
+        - title: Practical Deep Learning
+          logo: 
+          url: https://course.fast.ai/
+          description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
+        - title: 机器学习编译
+          logo: 
+          url: https://mlc.ai/zh/
+          description:  
+
+    - term: AI 工具
+      links:             
+        - title: lexica.art
+          logo: 
+          url: https://lexica.art/
+          description:  The state of the art AI image generation engine.
+        - title: AI 工具箱合集
+          logo: 
+          url: https://ai.nancheng.fun/
+          description:  
+        - title: AI咒术生成器
+          logo: 
+          url: https://tag.redsex.cc/
+          description:  
+        - title: 多种草
+          logo: 
+          url: https://duozhongcao.com/
+          description: 小红书文案AI生成器 
+        - title: segment-anything.com
+          logo: 
+          url: https://segment-anything.com/
+          description:  
+
+
+- taxonomy: Learning
   icon: fa-solid fa-graduation-cap
   list:
-    - term: 架构设计
+
+    - term: 数学 & 算法
+      links: 
+        - title: Interactive Linear Algebra
+          logo: 
+          url: https://textbooks.math.gatech.edu/ila/index-1.html
+          description: 交互式学习线性代数
+        - title: A Programmer's Introduction to Mathematics
+          logo: 
+          url: https://pimbook.org/
+          description: 
+        - title: Algorithms for Competitive Programming
+          logo: 
+          url: https://cp-algorithms.com/
+          description: 
+        - title: The Algorithms
+          logo: 
+          url: https://the-algorithms.com/zh_Hans
+          description: 
+
+    - term: 计算机（others）
       links:   
         - title: 深入架构原理和实践
           logo: 
@@ -176,27 +300,7 @@
         - title: 凤凰架构
           logo: 
           url: http://icyfenix.cn/summary/
-          description:     
-    - term: AI
-      links:   
-        - title: Practical Deep Learning
-          logo: 
-          url: https://course.fast.ai/
-          description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
-    - term: 其他
-      links: 
-        - title: 走遍美国 - 网易公开课
-          logo: 
-          url: https://open.163.com/newview/movie/courseintro?newurl=AEV4E6LV5
-          description: 
-        - title: 走出去公共服务平台
-          logo: 
-          url: http://fec.mofcom.gov.cn/article/gbdqzn/
-          description: 外贸数据
-        - title: Interactive Linear Algebra
-          logo: 
-          url: https://textbooks.math.gatech.edu/ila/index-1.html
-          description: 交互式学习线性代数
+          description:           
         - title: Google Fonts
           logo: 
           url: https://fonts.google.com/knowledge
@@ -209,23 +313,17 @@
           logo: 
           url: https://refactoringguru.cn/design-patterns/catalog
           description: 
-        - title: Learning Music
-          logo: 
-          url: https://learningmusic.ableton.com/zh-Hans/index.html
-          description: 音乐入门
+
         - title: 实践「看板方法」：从任务管理到目标管理
           logo: 
           url: https://sspai.com/post/52797
           description: 
-        - title: A Programmer's Introduction to Mathematics
+
+        - title: python 为什么
           logo: 
-          url: https://pimbook.org/
+          url: https://github.com/chinesehuazhou/python-whydo
           description: 
-        - title: Algorithms for Competitive Programming
-          logo: 
-          url: https://cp-algorithms.com/
-          description: 
-       
+
         - title: CFC4N的博客
           logo: 
           url: http://www.cnxct.com/
@@ -268,7 +366,27 @@
           description: Learning Containers, Kubernetes, and Backend Development with Ivan Velichko
 
 
-- taxonomy: 在线博物馆
+    - term: 其他
+      links: 
+        - title: 走遍美国 - 网易公开课
+          logo: 
+          url: https://open.163.com/newview/movie/courseintro?newurl=AEV4E6LV5
+          description: 
+        - title: 走出去公共服务平台
+          logo: 
+          url: http://fec.mofcom.gov.cn/article/gbdqzn/
+          description: 外贸数据
+        - title: Learning Music
+          logo: 
+          url: https://learningmusic.ableton.com/zh-Hans/index.html
+          description: 音乐入门
+        - title: leadership garden
+          logo: 
+          url: https://leadership.garden/
+          description:    
+
+
+- taxonomy: Museum
   icon: fa fa-university
   links: 
     - title: Google 艺术与文化
@@ -284,7 +402,7 @@
       url: https://www.abortretry.fail/archive?sort=new
       description: Abort Retry Fail is a publication that focuses on computing history.
 
-- taxonomy: 影视
+- taxonomy: Film & Video
   icon: fa-solid fa-film
   links: 
     - title: 海绵小站
@@ -328,7 +446,7 @@
       url: https://anybt.eth.limo/
       description: 磁力搜索
 
-- taxonomy: 音乐
+- taxonomy: Music
   icon: fa-solid fa-music
   links:  
     - title: lofi.cae
@@ -365,7 +483,7 @@
       description: 
 
 
-- taxonomy: 电子书
+- taxonomy: ebook
   icon: fa-solid fa-book
   links:  
     - title: 尔书
@@ -394,7 +512,7 @@
       description:  ePUBee整站电子书
 
 
-- taxonomy: 健康
+- taxonomy: Health
   icon: fa-solid fa-bicycle
   links:  
     - title: workout

@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "Don't worry, be happy!"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -8,8 +8,8 @@ hasCJKLanguage = true
 copyright = ""
 [params]
   author = "TruthSeeker"
-  description = "Webstack Hugo"
+  description = ""
 [params.search]
   enable = true
 [params.darkmode]
-  enable = true
+  enable = false
