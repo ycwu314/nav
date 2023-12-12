@@ -88,7 +88,12 @@
       logo: 
       url: https://www.diggui.com/
       description: 
+    - title: SSL/TLS Client Test
+      logo: 
+      url: https://browserleaks.com/tls
+      description: 
 
+      
 - taxonomy: Misc tools
   icon: fa-solid fa-wrench
   links: 
@@ -125,7 +130,7 @@
       url: https://github.com/awesome-selfhosted/awesome-selfhosted
       description: 
 
-- taxonomy: Blog
+- taxonomy: Blog & Forum
   icon: fas fa-rss
   links: 
     - title: 阮一峰
@@ -179,6 +184,22 @@
       logo: 
       url: https://teddysun.com/
       description:    
+
+    - title: 远景论坛 - 微软极客社区
+      logo: 
+      url: https://bbs.pcbeta.com/
+      description:    
+
+
+    - title: HICKS.design
+      logo: 
+      url: https://hicks.design/
+      description: HICKS.design is the creative partnership of Jon & Leigh Hicks  
+    - title: Bartosz Ciechanowski
+      logo: 
+      url: https://ciechanow.ski/
+      description: 非常厉害的前端动画效果
+
 
 - taxonomy: Blockchain
   icon: fa fa-btc
@@ -247,6 +268,11 @@
           logo: 
           url: https://github.com/microsoft/ML-For-Beginners
           description: 微软出品的机器学习入门教程 
+        - title: Advent of understanding the generative art
+          logo: 
+          url: https://zverok.space/blog/2021-12-28-grok-shan-shui.html
+          description:  
+
 
 
     - term: AI 工具
@@ -275,6 +301,7 @@
           logo: 
           url: https://replicate.com/explore
           description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
+
 
 
 - taxonomy: Learning
@@ -310,10 +337,47 @@
           logo: 
           url: http://icyfenix.cn/summary/
           description:           
+        - title: system-design-primer
+          logo: 
+          url: https://github.com/donnemartin/system-design-primer
+          description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. 
+
+        - title: Authing 身份云博客
+          logo: 
+          url: https://www.authing.cn/blog
+          description:     
+
+        - title: （前端）大厂面试每日一题
+          logo: 
+          url: https://q.shanyue.tech/engineering
+          description:           
+
+        - title: HackTricks
+          logo: 
+          url: https://book.hacktricks.xyz/v/cn/welcome/readme
+          description: 从CTF比赛、真实应用、研究和新闻中学到的每个黑客技巧/技术/其他内容。                  
+
+
+        - title: patterns.dev
+          logo: 
+          url: https://www.patterns.dev/
+          description: Patterns.dev is a free online resource on design, rendering, and performance patterns for building powerful web apps with vanilla JavaScript or modern frameworks.  
+
+        - title: The Art of ASSEMBLY LANGUAGE PROGRAMMING
+          logo: 
+          url: https://www.phatcode.net/res/223/files/html/toc.html
+          description: free汇编教程
+
         - title: Google Fonts
           logo: 
           url: https://fonts.google.com/knowledge
           description: 
+        - title: 了解字体的基础知识 -- 少数派
+          logo: 
+          url: https://sspai.com/post/71957
+          description: 
+
+
         - title: 数据仓库 ODS & DWD & DWS & DWT & ADS
           logo: 
           url: https://www.cnblogs.com/shengyang17/p/10545198.html
@@ -373,6 +437,10 @@
           logo: 
           url: https://iximiuz.com/en/
           description: Learning Containers, Kubernetes, and Backend Development with Ivan Velichko
+        - title: ares-x.com
+          logo: 
+          url: https://ares-x.com/
+          description: 计算机安全相关blog
 
 
     - term: 其他
@@ -385,14 +453,34 @@
           logo: 
           url: http://fec.mofcom.gov.cn/article/gbdqzn/
           description: 外贸数据
+
         - title: Learning Music
           logo: 
           url: https://learningmusic.ableton.com/zh-Hans/index.html
           description: 音乐入门
+
+        - title: Learning Synths
+          logo: 
+          url: https://learningsynths.ableton.com/zh-Hans/get-started
+          description: 音乐入门
+
         - title: leadership garden
           logo: 
           url: https://leadership.garden/
           description:    
+
+- taxonomy: k8s
+  icon: 
+  links: 
+    - title: k3s 官方手册
+      logo: 
+      url: https://docs.k3s.io/zh/
+      description: 
+    - title: K3s 完全进阶指南
+      logo: 
+      url: https://www.51cto.com/article/709504.html
+      description: 
+
 
 
 - taxonomy: Museum
