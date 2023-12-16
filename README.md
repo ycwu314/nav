@@ -22,6 +22,12 @@ update `webstack.yml`
           logo: 
           url: 
           description: 
+    - term: xxxx
+      links:
+        - title: 
+          logo: 
+          url: 
+          description:           
 ```      
 
 
