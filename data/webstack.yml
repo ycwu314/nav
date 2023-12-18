@@ -92,8 +92,22 @@
       logo: 
       url: https://browserleaks.com/tls
       description: 
+    - title: udger.com
+      logo: 
+      url: https://udger.com/resources/ua-list
+      description: 爬虫 user-agents
+    - title: fakenamegenerator
+      logo: 
+      url: https://www.fakenamegenerator.com/
+      description: 随机身份生成器
+    - title: slideshare 下载器
+      logo: 
+      url: https://www.slidegrabber.com/
+      description: 
 
-      
+
+
+
 - taxonomy: Misc tools
   icon: fa-solid fa-wrench
   links: 
@@ -155,6 +169,12 @@
       logo: 
       url: https://bigthink.com/
       description: 提供来自各个领域的专家的采访和圆桌讨论。
+
+    - title: New Atlas
+      logo: 
+      url: https://newatlas.com/
+      description: New Technology & Science News
+
 
     - title: STEVE BLANK
       logo: 
@@ -604,6 +624,10 @@
       logo: 
       url: https://salttiger.com
       description:  每天一本编程书
+    - title: IT熊猫
+      logo: 
+      url: https://www.itpanda.net/book/
+      description:        
     - title: fightlessbird 
       logo: 
       url: https://www.fightlessbird.com/
@@ -612,6 +636,11 @@
       logo: 
       url: https://www.aliyundrive.com/s/opE4d2gTn9g/folder/634432806b53c0073d9241ae95f9c8374ead8c4a
       description:  ePUBee整站电子书
+    - title: 第一故事
+      logo: 
+      url: http://www.yigushi.com/
+      description:  评书，有声书，儿童故事，etc
+
 
 
 - taxonomy: Health
