@@ -495,7 +495,7 @@
           description:    
 
 - taxonomy: k8s
-  icon: 
+  icon: fa fa-ship
   links: 
     - title: k3s 官方手册
       logo: 
