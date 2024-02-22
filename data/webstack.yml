@@ -1,148 +1,22 @@
 ---
 
-- taxonomy: VPS
-  icon: fa-desktop
-  list:
-    - term: VPS info
-      links: 
-        - title: hostloc
-          logo: 
-          url: https://hostloc.com/forum-45-1.html?d=4
-          description: 全球主机论坛
-        - title: vps小白
-          logo: 
-          url: https://vpsxb.net/
-          description: 
-        - title: 虎窝
-          logo: 
-          url: https://blog.ahu.moe/
-          description: 小众vps
-        - title: 猫不腻
-          logo: 
-          url: https://maobuni.com/
-          description: 小众vps  
-        - title: 主机测评
-          logo: 
-          url: https://www.zhujiceping.com/
-          description:             
-        - title: vps小学生
-          logo: 
-          url: http://www.vpsxxs.com/
-          description: 
-        - title: v2ex vps节点
-          logo: 
-          url: https://www.v2ex.com/go/vps?p=1
-          description: 
-        - title: 便宜vps
-          logo: 
-          url: https://www.pianyivps.com/pianyivps
-          description: 
 
-    - term: VPS vendors
-      links: 
-        - title: vmiss
-          logo: 
-          url: https://app.vmiss.com/clientarea.php
-          description: 
-        - title: greencloudvps
-          logo: 
-          url: https://greencloudvps.com/billing/clientarea.php
-          description: 
-        - title: cloudcone
-          logo: 
-          url: https://app.cloudcone.com/login
-          description: 
-        - title: colocrossing
-          logo: 
-          url: https://cloud.colocrossing.com/clientarea.php
-          description: 
 
-- taxonomy: Network
-  icon: fa-wifi
+- taxonomy: Museum
+  icon: fa fa-university
   links: 
-    - title: itdog
+    - title: Google 艺术与文化
       logo: 
-      url: https://www.itdog.cn/traceroute
-      description: 在线traceroute
-    - title: tcp.ping.pe
-      logo: 
-      url: https://tcp.ping.pe/ 
-      description: 被q检测
-    - title: ipv6.stream
-      logo: 
-      url: https://ipv6.stream/    
-      description: IPv6 测试聚合站
-    - title: ipv6ready.me
-      logo: 
-      url: http://ipv6ready.me/
-      description: IPv6 测试
-    - title: ping0.cc
-      logo: 
-      url: https://ping0.cc/vpsmon/5day
-      description: 全球小鸡监控
-    - title: BGP Toolkit Home
-      logo: 
-      url: https://bgp.he.net/
-      description: HE.net 提供的工具集合
-    - title: 在线dig
-      logo: 
-      url: https://www.diggui.com/
+      url: https://artsandculture.google.com/
       description: 
-    - title: SSL/TLS Client Test
+    - title: 电脑博物馆
       logo: 
-      url: https://browserleaks.com/tls
+      url: http://www.compumuseum.com/
       description: 
-    - title: udger.com
+    - title: Abort Retry Fail
       logo: 
-      url: https://udger.com/resources/ua-list
-      description: 爬虫 user-agents
-    - title: fakenamegenerator
-      logo: 
-      url: https://www.fakenamegenerator.com/
-      description: 随机身份生成器
-    - title: slideshare 下载器
-      logo: 
-      url: https://www.slidegrabber.com/
-      description: 
-
-
-
-
-- taxonomy: Misc tools
-  icon: fa-solid fa-wrench
-  links: 
-    - title: ascii画图
-      logo: 
-      url: http://asciiflow.cn/
-      description: 
-    - title: 下1个好软件
-      logo: 
-      url: https://x1g.la/
-      description: 分享实用好玩软件
-    - title: 那些免费的砖
-      logo: 
-      url: https://www.thosefree.com/apps
-      description: 优雅地白嫖各种免费资源
-    - title: jetbrains 全家桶
-      logo: 
-      url: http://jets.idejihuo.com/
-      description: 
-    - title: qq浏览器工具箱
-      logo: 
-      url: https://tool.browser.qq.com/
-      description:       
-    - title: 哈希工具
-      logo: 
-      url: https://crypto-online.cn/playground/hash
-      description:    
-    - title: offsec.tools
-      logo: 
-      url: https://offsec.tools/
-      description:  offsec.tools is a vast listing of security tools designed to help pentesters and bug hunters in their daily task.   
-    - title: awesome-selfhosted
-      logo: 
-      url: https://github.com/awesome-selfhosted/awesome-selfhosted
-      description: 
+      url: https://www.abortretry.fail/archive?sort=new
+      description: Abort Retry Fail is a publication that focuses on computing history.
 
 - taxonomy: Blog & Forum
   icon: fas fa-rss
@@ -151,6 +25,12 @@
       logo: 
       url: https://ruanyifeng.com/
       description: 
+
+    - title: 笛卡
+      logo: 
+      url: https://dizkaz.com/
+      description: 
+      
   
     - title: 老苏的blog
       logo: 
@@ -225,6 +105,13 @@
       url: https://ciechanow.ski/
       description: 非常厉害的前端动画效果
 
+    - title: 鸟窝
+      logo: 
+      url: https://colobu.com/
+      description: 
+
+
+
 
 - taxonomy: Blockchain
   icon: fa fa-btc
@@ -297,6 +184,10 @@
           logo: 
           url: https://zverok.space/blog/2021-12-28-grok-shan-shui.html
           description:  
+        - title: huggingface AI 教程
+          logo: 
+          url: https://huggingface.co/learn
+          description:            
 
 
 
@@ -357,6 +248,11 @@
 
     - term: 计算机（others）
       links:   
+        - title: Trending Papers
+          logo: 
+          url: https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories
+          description:  
+
         - title: 深入架构原理和实践
           logo: 
           url: https://www.thebyte.com.cn/
@@ -475,6 +371,12 @@
           url: https://ares-x.com/
           description: 计算机安全相关blog
 
+        - title: Beej's Guide to Network Concepts
+          logo: 
+          url: https://beej.us/guide/bgnet0/html/split/index.html
+          description: 
+
+
 
     - term: 其他
       links: 
@@ -502,6 +404,62 @@
           url: https://leadership.garden/
           description:    
 
+- taxonomy: VPS
+  icon: fa-desktop
+  list:
+    - term: VPS info
+      links: 
+        - title: hostloc
+          logo: 
+          url: https://hostloc.com/forum-45-1.html?d=4
+          description: 全球主机论坛
+        - title: vps小白
+          logo: 
+          url: https://vpsxb.net/
+          description: 
+        - title: 虎窝
+          logo: 
+          url: https://blog.ahu.moe/
+          description: 小众vps
+        - title: 猫不腻
+          logo: 
+          url: https://maobuni.com/
+          description: 小众vps  
+        - title: 主机测评
+          logo: 
+          url: https://www.zhujiceping.com/
+          description:             
+        - title: vps小学生
+          logo: 
+          url: http://www.vpsxxs.com/
+          description: 
+        - title: v2ex vps节点
+          logo: 
+          url: https://www.v2ex.com/go/vps?p=1
+          description: 
+
+
+    - term: VPS vendors
+      links: 
+        - title: vmiss
+          logo: 
+          url: https://app.vmiss.com/clientarea.php
+          description: 
+        - title: greencloudvps
+          logo: 
+          url: https://greencloudvps.com/billing/clientarea.php
+          description: 
+        - title: cloudcone
+          logo: 
+          url: https://app.cloudcone.com/login
+          description: 
+        - title: colocrossing
+          logo: 
+          url: https://cloud.colocrossing.com/clientarea.php
+          description: 
+
+
+
 - taxonomy: k8s
   icon: fa fa-ship
   links: 
@@ -516,21 +474,7 @@
 
 
 
-- taxonomy: Museum
-  icon: fa fa-university
-  links: 
-    - title: Google 艺术与文化
-      logo: 
-      url: https://artsandculture.google.com/
-      description: 
-    - title: 电脑博物馆
-      logo: 
-      url: http://www.compumuseum.com/
-      description: 
-    - title: Abort Retry Fail
-      logo: 
-      url: https://www.abortretry.fail/archive?sort=new
-      description: Abort Retry Fail is a publication that focuses on computing history.
+
 
 - taxonomy: Film & Video
   icon: fa-solid fa-film
@@ -667,4 +611,89 @@
       url: https://github.com/AnsonZnl/RehabilitationGuide  
       description:  
 
-    
+- taxonomy: Network
+  icon: fa-wifi
+  links: 
+    - title: itdog
+      logo: 
+      url: https://www.itdog.cn/traceroute
+      description: 在线traceroute
+    - title: tcp.ping.pe
+      logo: 
+      url: https://tcp.ping.pe/ 
+      description: 被q检测
+    - title: ipv6.stream
+      logo: 
+      url: https://ipv6.stream/    
+      description: IPv6 测试聚合站
+    - title: ipv6ready.me
+      logo: 
+      url: http://ipv6ready.me/
+      description: IPv6 测试
+    - title: ping0.cc
+      logo: 
+      url: https://ping0.cc/vpsmon/5day
+      description: 全球小鸡监控
+    - title: BGP Toolkit Home
+      logo: 
+      url: https://bgp.he.net/
+      description: HE.net 提供的工具集合
+    - title: 在线dig
+      logo: 
+      url: https://www.diggui.com/
+      description: 
+    - title: SSL/TLS Client Test
+      logo: 
+      url: https://browserleaks.com/tls
+      description: 
+    - title: udger.com
+      logo: 
+      url: https://udger.com/resources/ua-list
+      description: 爬虫 user-agents
+    - title: fakenamegenerator
+      logo: 
+      url: https://www.fakenamegenerator.com/
+      description: 随机身份生成器
+    - title: slideshare 下载器
+      logo: 
+      url: https://www.slidegrabber.com/
+      description: 
+
+
+
+
+- taxonomy: Misc tools
+  icon: fa-solid fa-wrench
+  links: 
+    - title: ascii画图
+      logo: 
+      url: http://asciiflow.cn/
+      description: 
+    - title: 下1个好软件
+      logo: 
+      url: https://x1g.la/
+      description: 分享实用好玩软件
+    - title: 那些免费的砖
+      logo: 
+      url: https://www.thosefree.com/apps
+      description: 优雅地白嫖各种免费资源
+    - title: jetbrains 全家桶
+      logo: 
+      url: http://jets.idejihuo.com/
+      description: 
+    - title: qq浏览器工具箱
+      logo: 
+      url: https://tool.browser.qq.com/
+      description:       
+    - title: 哈希工具
+      logo: 
+      url: https://crypto-online.cn/playground/hash
+      description:    
+    - title: offsec.tools
+      logo: 
+      url: https://offsec.tools/
+      description:  offsec.tools is a vast listing of security tools designed to help pentesters and bug hunters in their daily task.   
+    - title: awesome-selfhosted
+      logo: 
+      url: https://github.com/awesome-selfhosted/awesome-selfhosted
+      description:     
