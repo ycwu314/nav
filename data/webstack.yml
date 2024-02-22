@@ -1,7 +1,5 @@
 ---
 
-
-
 - taxonomy: Museum
   icon: fa fa-university
   links: 
@@ -9,6 +7,12 @@
       logo: 
       url: https://artsandculture.google.com/
       description: 
+
+    - title: history-maps.com
+      logo: 
+      url: https://history-maps.com/
+      description: 
+      
     - title: 电脑博物馆
       logo: 
       url: http://www.compumuseum.com/
@@ -31,11 +35,10 @@
       url: https://dizkaz.com/
       description: 
       
-  
-    - title: 老苏的blog
+    - title: 张大春泡新闻
       logo: 
-      url: https://wbsu2003.pages.dev/
-      description: 折腾各种好玩的东西
+      url: https://www.youtube.com/playlist?list=PL0VpXJuJSa7cGjKnKrK2vYLMQrjGtzcQm
+      description: 
 
     - title: v2ex
       logo: 
@@ -94,6 +97,11 @@
       logo: 
       url: https://bbs.pcbeta.com/
       description:    
+
+    - title: 老苏的blog
+      logo: 
+      url: https://wbsu2003.pages.dev/
+      description: 折腾各种好玩的东西
 
 
     - title: HICKS.design
