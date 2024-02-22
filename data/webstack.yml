@@ -295,6 +295,11 @@
           url: https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0
           description:           
 
+        - title:  浏览器调试技巧
+          logo: 
+          url: https://alan.norbauer.com/articles/browser-debugging-tricks
+          description:     
+
         - title: HackTricks
           logo: 
           url: https://book.hacktricks.xyz/v/cn/welcome/readme
