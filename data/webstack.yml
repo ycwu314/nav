@@ -116,7 +116,7 @@
 - taxonomy: Blockchain
   icon: fa fa-btc
   list:
-    - term: 学习
+    - term: 区块链学习
       links:   
         - title: 登链社区
           logo: 
@@ -144,7 +144,7 @@
           description:  
 
 
-    - term: 工具
+    - term: 区块链工具
       links:   
         - title: oklink浏览器
           logo: 
@@ -256,7 +256,13 @@
         - title: 深入架构原理和实践
           logo: 
           url: https://www.thebyte.com.cn/
-          description:      
+          description:    
+
+        - title: ThoughtWorks 现代企业架构框架白皮书
+          logo: 
+          url: https://web3d.github.io/meaf-book/
+          description:    
+
         - title: 凤凰架构
           logo: 
           url: http://icyfenix.cn/summary/
@@ -560,6 +566,11 @@
 - taxonomy: ebook
   icon: fa-solid fa-book
   links:  
+    - title: dokumen.pub
+      logo: 
+      url: https://dokumen.pub/
+      description: 
+
     - title: 尔书
       logo: 
       url: https://www.ershu.org/
