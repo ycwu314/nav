@@ -259,8 +259,7 @@
           logo: 
           url: https://the-algorithms.com/zh_Hans
           description: 
-
-        - title: Probabilistic Machine Learning: Advanced Topics
+        - title: "Probabilistic Machine Learning: Advanced Topics"
           logo: 
           url: https://probml.github.io/pml-book/book2.html
           description: 一本免费下载的英文教材，介绍机器学习的概率知识。
