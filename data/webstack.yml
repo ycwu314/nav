@@ -264,7 +264,10 @@
           url: https://probml.github.io/pml-book/book2.html
           description: 一本免费下载的英文教材，介绍机器学习的概率知识。
 
-
+        - title: math3d.org
+          logo: 
+          url: https://www.math3d.org/
+          description: 在线三维数学工具
 
     - term: 计算机（others）
       links:   
