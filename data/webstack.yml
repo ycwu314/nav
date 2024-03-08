@@ -664,6 +664,12 @@
 - taxonomy: Network
   icon: fa-wifi
   links: 
+    - title: browserscan.net
+      logo: 
+      url: https://www.browserscan.net/
+      description: 浏览器指纹、dns/webrtc泄露检测
+
+  
     - title: itdog
       logo: 
       url: https://www.itdog.cn/traceroute
