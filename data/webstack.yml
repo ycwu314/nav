@@ -753,3 +753,7 @@
       logo: 
       url: https://github.com/awesome-selfhosted/awesome-selfhosted
       description:     
+    - title: Sysinternals
+      logo: 
+      url: https://learn.microsoft.com/en-us/sysinternals/
+      description: windows 官方工具集合    
