@@ -721,6 +721,16 @@
 - taxonomy: Misc tools
   icon: fa-solid fa-wrench
   links: 
+    - title: freedium.cfd
+      logo: 
+      url: https://freedium.cfd/
+      description: Your paywall breakthrough for Medium!
+
+    - title: readmedium.com
+      logo: 
+      url: https://readmedium.com/
+      description: Your paywall breakthrough for Medium!
+
     - title: ascii画图
       logo: 
       url: http://asciiflow.cn/
