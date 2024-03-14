@@ -35,6 +35,17 @@
       url: https://luxiangdong.com/
       description: AI 学习笔记
 
+    - title: towards data science
+      logo: 
+      url: https://towardsdatascience.com/
+      description: 挺好的付费阅读
+
+    - title: Chris McCormick 的AI blog
+      logo: 
+      url: https://mccormickml.com/archive/
+      description: 
+
+
     - title: 技术摘抄
       logo: 
       url: http://learn.lianglianglee.com/
