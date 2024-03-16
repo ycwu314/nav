@@ -335,6 +335,11 @@
           url: https://www.joshwcomeau.com/css/interactive-guide-to-grid/
           description: 交互式CSS网格教程          
 
+        - title: （前端）svg-tutorial.com
+          logo: 
+          url: https://svg-tutorial.com/
+          description: svg教程
+
 
         - title:  浏览器调试技巧
           logo: 
