@@ -267,6 +267,10 @@
           logo: 
           url: https://textbooks.math.gatech.edu/ila/index-1.html
           description: 交互式学习线性代数
+        - title: Linear-Algebra-With-Python
+          logo: 
+          url: https://github.com/weijie-chen/Linear-Algebra-With-Python
+          description: python + jupyter 学习线性代数          
         - title: A Programmer's Introduction to Mathematics
           logo: 
           url: https://pimbook.org/
