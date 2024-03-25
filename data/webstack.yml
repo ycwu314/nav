@@ -222,7 +222,10 @@
           logo: 
           url: https://huggingface.co/learn
           description:            
-
+        - title: "【布客】AI Learning"
+          logo: 
+          url: https://ailearning.apachecn.org/
+          description:    
 
 
     - term: AI 工具
