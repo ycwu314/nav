@@ -448,7 +448,10 @@
           url: https://beej.us/guide/bgnet0/html/split/index.html
           description: 
 
-
+        - title: "Learn Modern C++"
+          logo: 
+          url: https://learnmoderncpp.com/
+          description: 
 
     - term: 其他
       links: 
