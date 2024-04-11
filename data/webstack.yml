@@ -22,6 +22,92 @@
       url: https://www.abortretry.fail/archive?sort=new
       description: Abort Retry Fail is a publication that focuses on computing history.
 
+
+- taxonomy: AI
+  icon: fa fa-rocket
+  list:
+    - term: AI 教程
+      links:   
+        - title: "Papers with code: the latest machine learning"
+          logo: 
+          url: https://paperswithcode.com/
+          description: 前沿ML和代码
+
+        - title: open-mmlab
+          logo: 
+          url: https://github.com/open-mmlab
+          description: 
+
+        - title: 土猛的员外
+          logo: 
+          url: https://luxiangdong.com/
+          description: AI 学习笔记
+
+        - title: towards data science
+          logo: 
+          url: https://towardsdatascience.com/
+          description: AI，数据科学
+
+        - title: Practical Deep Learning
+          logo: 
+          url: https://course.fast.ai/
+          description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
+        - title: 机器学习编译
+          logo: 
+          url: https://mlc.ai/zh/
+          description:  
+        - title: ML-For-Beginners
+          logo: 
+          url: https://github.com/microsoft/ML-For-Beginners
+          description: 微软出品的机器学习入门教程 
+        - title: Advent of understanding the generative art
+          logo: 
+          url: https://zverok.space/blog/2021-12-28-grok-shan-shui.html
+          description:  
+        - title: huggingface AI 教程
+          logo: 
+          url: https://huggingface.co/learn
+          description:            
+        - title: "【布客】AI Learning"
+          logo: 
+          url: https://ailearning.apachecn.org/
+          description:    
+        - title: 极市计算机视觉线上技术分享集锦
+          logo: 
+          url: https://www.cvmart.net/community/detail/149
+          description:    
+
+    - term: AI 工具
+      links:             
+        - title: lexica.art
+          logo: 
+          url: https://lexica.art/
+          description:  The state of the art AI image generation engine.
+        - title: AI 工具箱合集
+          logo: 
+          url: https://ai.nancheng.fun/
+          description:  
+        - title: AI咒术生成器
+          logo: 
+          url: https://tag.redsex.cc/
+          description:  
+        - title: 多种草
+          logo: 
+          url: https://duozhongcao.com/
+          description: 小红书文案AI生成器 
+        - title: segment-anything.com
+          logo: 
+          url: https://segment-anything.com/
+          description:  
+        - title: replicate.com
+          logo: 
+          url: https://replicate.com/explore
+          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
+        - title: vavebg.com
+          logo: 
+          url: https://vavebg.com/
+          description: 纯AI生成的壁纸
+
 - taxonomy: Blog & Forum
   icon: fas fa-rss
   links: 
@@ -30,15 +116,7 @@
       url: https://ruanyifeng.com/
       description: 
 
-    - title: 土猛的员外
-      logo: 
-      url: https://luxiangdong.com/
-      description: AI 学习笔记
 
-    - title: towards data science
-      logo: 
-      url: https://towardsdatascience.com/
-      description: 挺好的付费阅读
 
     - title: Chris McCormick 的AI blog
       logo: 
@@ -197,70 +275,7 @@
           url: https://cointool.app/dashboard
           description:
 
-- taxonomy: AI
-  icon: fa fa-rocket
-  list:
-    - term: AI 教程
-      links:   
-        - title: Practical Deep Learning
-          logo: 
-          url: https://course.fast.ai/
-          description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
-        - title: 机器学习编译
-          logo: 
-          url: https://mlc.ai/zh/
-          description:  
-        - title: ML-For-Beginners
-          logo: 
-          url: https://github.com/microsoft/ML-For-Beginners
-          description: 微软出品的机器学习入门教程 
-        - title: Advent of understanding the generative art
-          logo: 
-          url: https://zverok.space/blog/2021-12-28-grok-shan-shui.html
-          description:  
-        - title: huggingface AI 教程
-          logo: 
-          url: https://huggingface.co/learn
-          description:            
-        - title: "【布客】AI Learning"
-          logo: 
-          url: https://ailearning.apachecn.org/
-          description:    
-        - title: 极市计算机视觉线上技术分享集锦
-          logo: 
-          url: https://www.cvmart.net/community/detail/149
-          description:    
 
-    - term: AI 工具
-      links:             
-        - title: lexica.art
-          logo: 
-          url: https://lexica.art/
-          description:  The state of the art AI image generation engine.
-        - title: AI 工具箱合集
-          logo: 
-          url: https://ai.nancheng.fun/
-          description:  
-        - title: AI咒术生成器
-          logo: 
-          url: https://tag.redsex.cc/
-          description:  
-        - title: 多种草
-          logo: 
-          url: https://duozhongcao.com/
-          description: 小红书文案AI生成器 
-        - title: segment-anything.com
-          logo: 
-          url: https://segment-anything.com/
-          description:  
-        - title: replicate.com
-          logo: 
-          url: https://replicate.com/explore
-          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
-        - title: vavebg.com
-          logo: 
-          url: https://vavebg.com/
-          description: 纯AI生成的壁纸
 
 
 - taxonomy: Learning
