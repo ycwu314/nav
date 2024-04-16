@@ -107,6 +107,16 @@
           logo: 
           url: https://vavebg.com/
           description: 纯AI生成的壁纸
+        - title: stockcake
+          logo: 
+          url: https://stockcake.com/        
+          description: 无版权AI生成图片库
+  
+        - title: 一译
+          logo: 
+          url: https://yiyibooks.cn/
+          description: 在线论文翻译。中英文对照。
+  
 
 - taxonomy: Blog & Forum
   icon: fas fa-rss
@@ -116,7 +126,15 @@
       url: https://ruanyifeng.com/
       description: 
 
+    - title: Yale Environment 360 
+      logo: 
+      url: https://e360.yale.edu/
+      description: 耶鲁大学全球环境问题讨论
 
+    - title: Hello 算法
+      logo: 
+      url: https://www.hello-algo.com/chapter_hello_algo/
+      description: 在线算法学习，含动画
 
     - title: Chris McCormick 的AI blog
       logo: 
