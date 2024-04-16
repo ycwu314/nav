@@ -38,15 +38,16 @@
           url: https://github.com/open-mmlab
           description: 
 
-        - title: 土猛的员外
-          logo: 
-          url: https://luxiangdong.com/
-          description: AI 学习笔记
-
         - title: towards data science
           logo: 
           url: https://towardsdatascience.com/
           description: AI，数据科学
+
+        - title: data-centric-AI
+          logo: 
+          url: https://github.com/daochenzha/data-centric-AI
+          description: data-centric-AI 资源 
+
 
         - title: Practical Deep Learning
           logo: 
@@ -68,6 +69,8 @@
           logo: 
           url: https://huggingface.co/learn
           description:            
+
+
         - title: "【布客】AI Learning"
           logo: 
           url: https://ailearning.apachecn.org/
@@ -76,6 +79,12 @@
           logo: 
           url: https://www.cvmart.net/community/detail/149
           description:    
+
+        - title: 土猛的员外
+          logo: 
+          url: https://luxiangdong.com/
+          description: AI 学习笔记
+
 
     - term: AI 工具
       links:             
