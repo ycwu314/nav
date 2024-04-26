@@ -28,6 +28,19 @@
   list:
     - term: AI 教程
       links:   
+        - title: DeepLearning-Interview-Awesome-2024
+          logo: 
+          url: https://github.com/315386775/DeepLearing-Interview-Awesome-2024
+          description: 
+
+        - title: "Great Resources for Learning Generative AI and Large Language Models (LLMs)"
+          logo: 
+          url: https://pankajpipada.com/posts/2024-04-15-genai-resources/
+          description: 
+
+
+
+
         - title: "Papers with code: the latest machine learning"
           logo: 
           url: https://paperswithcode.com/
