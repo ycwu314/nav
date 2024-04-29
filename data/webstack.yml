@@ -26,6 +26,25 @@
 - taxonomy: AI
   icon: fa fa-rocket
   list:
+    - term: AI Chatbot
+      links:   
+        - title: OpenAI
+          logo: 
+          url: https://chat.openai.com/
+          description: 
+        - title: Poe
+          logo: 
+          url: https://poe.com/
+          description: 
+        - title: llama3.dev
+          logo: 
+          url: https://llama3.dev/
+          description: 
+        - title: Meta AI
+          logo: 
+          url: https://www.meta.ai/
+          description: 美区IP 
+
     - term: AI 教程
       links:   
         - title: DeepLearning-Interview-Awesome-2024
