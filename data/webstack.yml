@@ -127,7 +127,11 @@
 
 
     - term: AI 工具
-      links:             
+      links:            
+        - title: 一译
+          logo: 
+          url: https://yiyibooks.cn/
+          description: 在线论文翻译。中英文对照。       
         - title: lexica.art
           logo: 
           url: https://lexica.art/
@@ -161,10 +165,7 @@
           url: https://stockcake.com/        
           description: 无版权AI生成图片库
   
-        - title: 一译
-          logo: 
-          url: https://yiyibooks.cn/
-          description: 在线论文翻译。中英文对照。
+
   
 
 - taxonomy: Blog & Forum
@@ -177,6 +178,10 @@
     - title: HackerNews的每日摘要
       logo: 
       url: https://www.supertechfans.com/cn
+      description: 
+    - title: ByteByteGo 系统设计
+      logo: 
+      url: https://blog.bytebytego.com/
       description: 
 
 
