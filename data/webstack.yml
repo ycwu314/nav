@@ -125,6 +125,12 @@
           url: https://luxiangdong.com/
           description: AI 学习笔记
 
+        - title: llya 30u30
+          logo: 
+          url: https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+          description: 30篇重要的AI论文
+
+
 
     - term: AI 工具
       links:            
@@ -179,6 +185,14 @@
       logo: 
       url: https://www.supertechfans.com/cn
       description: 
+
+    - title: Gary Halbert’s Boron Letters 
+      logo: 
+      url: https://morgancrozier.com/boron-letters/
+      description: All Of Gary Halbert’s Boron Letters From Prison 
+
+
+
     - title: ByteByteGo 系统设计
       logo: 
       url: https://blog.bytebytego.com/
@@ -242,6 +256,11 @@
       logo: 
       url: https://newatlas.com/
       description: New Technology & Science News
+
+    - title: The Verge
+      logo: 
+      url: https://www.theverge.com/
+      description: The Verge is about technology and how it makes us feel.
 
 
     - title: STEVE BLANK
