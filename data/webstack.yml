@@ -62,7 +62,10 @@
           url: https://llmbook-zh.github.io/
           description: 《大语言模型》
 
-
+        - title: Understanding Deep Learning
+          logo: 
+          url: https://udlbook.github.io/udlbook/
+          description: 
 
         - title: "Papers with code: the latest machine learning"
           logo: 
