@@ -11,8 +11,7 @@
     - title: history-maps.com
       logo: 
       url: https://history-maps.com/
-      description: 
-      
+      description:       
     - title: 电脑博物馆
       logo: 
       url: http://www.compumuseum.com/
@@ -21,7 +20,10 @@
       logo: 
       url: https://www.abortretry.fail/archive?sort=new
       description: Abort Retry Fail is a publication that focuses on computing history.
-
+    - title: fabulous.systems
+      logo: 
+      url: https://fabulous.systems/
+      description: 计算机考古
 
 - taxonomy: AI
   icon: fa fa-rocket
