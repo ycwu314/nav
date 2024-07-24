@@ -202,6 +202,12 @@
       url: https://morgancrozier.com/boron-letters/
       description: All Of Gary Halbert’s Boron Letters From Prison 
 
+
+    - title: plough
+      logo: 
+      url: https://www.plough.com/
+      description: Quarterly magazine and books
+
     - title: 陶哲轩的blog
       logo: 
       url: https://terrytao.wordpress.com/
@@ -247,11 +253,7 @@
       logo: 
       url: http://learn.lianglianglee.com/
       description: 一大堆在线课程电子版
-      
-    - title: 标点符
-      logo: 
-      url: https://www.biaodianfu.com/
-      description: IT blog
+    
       
     - title: 笛卡
       logo: 
