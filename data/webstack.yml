@@ -794,6 +794,11 @@
       url: https://dokumen.pub/
       description: 
 
+    - title: Project Gutenberg
+      logo: 
+      url: https://www.gutenberg.org/
+      description: Project Gutenberg is a library of over 70,000 free eBooks
+
     - title: SaltyLeo 的书架
       logo: 
       url: https://book.tstrs.me/
