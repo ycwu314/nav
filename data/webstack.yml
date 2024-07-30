@@ -982,3 +982,17 @@
       logo: 
       url: https://learn.microsoft.com/en-us/sysinternals/
       description: windows 官方工具集合    
+
+
+- taxonomy: Maps
+  icon: fa fa-map-marker
+  links: 
+    - title: The True Size Of ...
+      logo: 
+      url: https://www.thetruesize.com/
+      description: 
+
+    - title: Relief Map
+      logo: 
+      url: https://maps-for-free.com/
+      description: 
