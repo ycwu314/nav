@@ -365,7 +365,11 @@
       logo: 
       url: https://datatracker.ietf.org/
       description: The IETF Datatracker is the day-to-day front-end to the IETF database for people who work on IETF standards.
-
+      
+    - title: smashing magazine
+      logo: 
+      url: https://www.smashingmagazine.com/
+      description: For web designers and developer.
 
 - taxonomy: Blockchain
   icon: fa fa-btc
