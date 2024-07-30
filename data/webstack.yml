@@ -370,6 +370,12 @@
       logo: 
       url: https://www.smashingmagazine.com/
       description: For web designers and developer.
+      
+    - title: LiveVideoStack
+      logo: 
+      url: https://livevideostack.cn/
+      description: 
+
 
 - taxonomy: Blockchain
   icon: fa fa-btc
