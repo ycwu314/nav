@@ -24,6 +24,11 @@
       logo: 
       url: https://fabulous.systems/
       description: 计算机考古
+    - title: doodles.google
+      logo: 
+      url: https://doodles.google/
+      description: 
+
 
 - taxonomy: AI
   icon: fa fa-rocket
