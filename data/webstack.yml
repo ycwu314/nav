@@ -346,12 +346,6 @@
       description: 程序员博客
 
 
-    - title: 老苏的blog
-      logo: 
-      url: https://wbsu2003.pages.dev/
-      description: 折腾各种好玩的东西
-
-
     - title: HICKS.design
       logo: 
       url: https://hicks.design/
@@ -386,6 +380,12 @@
       logo: 
       url: https://ihavenotv.com/
       description: 在线免费看纪录片
+
+    - title: MakerWorld
+      logo: 
+      url: https://makerworld.com/zh
+      description: 免费下载3d打印模型
+      
 
 - taxonomy: Blockchain
   icon: fa fa-btc
