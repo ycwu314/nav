@@ -476,6 +476,13 @@
           url: https://www.math3d.org/
           description: 在线三维数学工具
 
+    - term: 物理
+      links: 
+        - title: 如果你想学习物理
+          logo: 
+          url: https://www.susanrigetti.com/physics
+          description: guide line
+
     - term: 计算机（others）
       links:   
         - title: Trending Papers
