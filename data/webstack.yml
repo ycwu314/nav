@@ -202,6 +202,17 @@
       description: 
 
 
+    - title: Trieve HN Discovery
+      logo: 
+      url: https://hn.trieve.ai/
+      description: HackerNews 检索版
+
+    - title: zeli.app
+      logo: 
+      url: https://zeli.app/zh
+      description: 用中文阅读HackerNews和AI论文
+
+
     - title: Gary Halbert’s Boron Letters 
       logo: 
       url: https://morgancrozier.com/boron-letters/
