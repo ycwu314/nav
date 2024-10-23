@@ -922,8 +922,6 @@
       description: 
 
 
-
-
 - taxonomy: Tools
   icon: fa-solid fa-wrench
   list:
@@ -976,45 +974,45 @@
           url: https://learn.microsoft.com/en-us/sysinternals/
           description: windows 官方工具集合    
   
-      - term: AI 工具
-        links:            
-          - title: 一译
-            logo: 
-            url: https://yiyibooks.cn/
-            description: 在线论文翻译。中英文对照。       
-          - title: lexica.art
-            logo: 
-            url: https://lexica.art/
-            description:  The state of the art AI image generation engine.
-          - title: AI 工具箱合集
-            logo: 
-            url: https://ai.nancheng.fun/
-            description:  
-          - title: AI咒术生成器
-            logo: 
-            url: https://tag.redsex.cc/
-            description:  
-          - title: 多种草
-            logo: 
-            url: https://duozhongcao.com/
-            description: 小红书文案AI生成器 
-          - title: segment-anything.com
-            logo: 
-            url: https://segment-anything.com/
-            description:  
-          - title: replicate.com
-            logo: 
-            url: https://replicate.com/explore
-            description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
-          - title: vavebg.com
-            logo: 
-            url: https://vavebg.com/
-            description: 纯AI生成的壁纸
-          - title: stockcake
-            logo: 
-            url: https://stockcake.com/        
-            description: 无版权AI生成图片库
-    
+    - term: AI 工具
+      links:            
+        - title: 一译
+          logo: 
+          url: https://yiyibooks.cn/
+          description: 在线论文翻译。中英文对照。       
+        - title: lexica.art
+          logo: 
+          url: https://lexica.art/
+          description:  The state of the art AI image generation engine.
+        - title: AI 工具箱合集
+          logo: 
+          url: https://ai.nancheng.fun/
+          description:  
+        - title: AI咒术生成器
+          logo: 
+          url: https://tag.redsex.cc/
+          description:  
+        - title: 多种草
+          logo: 
+          url: https://duozhongcao.com/
+          description: 小红书文案AI生成器 
+        - title: segment-anything.com
+          logo: 
+          url: https://segment-anything.com/
+          description:  
+        - title: replicate.com
+          logo: 
+          url: https://replicate.com/explore
+          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
+        - title: vavebg.com
+          logo: 
+          url: https://vavebg.com/
+          description: 纯AI生成的壁纸
+        - title: stockcake
+          logo: 
+          url: https://stockcake.com/        
+          description: 无版权AI生成图片库
+
 
 - taxonomy: Maps
   icon: fa fa-map-marker
