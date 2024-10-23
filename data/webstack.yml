@@ -927,7 +927,7 @@
 - taxonomy: Tools
   icon: fa-solid fa-wrench
   - term: 杂项工具  
-    - links: 
+    links: 
       - title: freedium.cfd
         logo: 
         url: https://freedium.cfd/
