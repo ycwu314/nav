@@ -140,49 +140,12 @@
           url: https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
           description: 30篇重要的AI论文
 
+        - title: 李博杰的博客
+          logo: 
+          url: https://01.me/archives/
+          description: 华为天才少年。与AI相关的数据中心网络和系统。
 
-
-    - term: AI 工具
-      links:            
-        - title: 一译
-          logo: 
-          url: https://yiyibooks.cn/
-          description: 在线论文翻译。中英文对照。       
-        - title: lexica.art
-          logo: 
-          url: https://lexica.art/
-          description:  The state of the art AI image generation engine.
-        - title: AI 工具箱合集
-          logo: 
-          url: https://ai.nancheng.fun/
-          description:  
-        - title: AI咒术生成器
-          logo: 
-          url: https://tag.redsex.cc/
-          description:  
-        - title: 多种草
-          logo: 
-          url: https://duozhongcao.com/
-          description: 小红书文案AI生成器 
-        - title: segment-anything.com
-          logo: 
-          url: https://segment-anything.com/
-          description:  
-        - title: replicate.com
-          logo: 
-          url: https://replicate.com/explore
-          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
-        - title: vavebg.com
-          logo: 
-          url: https://vavebg.com/
-          description: 纯AI生成的壁纸
-        - title: stockcake
-          logo: 
-          url: https://stockcake.com/        
-          description: 无版权AI生成图片库
-  
-
-  
+ 
 
 - taxonomy: Blog & Forum
   icon: fas fa-rss
@@ -191,10 +154,17 @@
       logo: 
       url: https://ruanyifeng.com/
       description: 
+      
     - title: HackerNews的每日摘要
       logo: 
       url: https://www.supertechfans.com/cn
       description: 
+
+    - title: zeli.app
+      logo: 
+      url: https://zeli.app/zh
+      description: 用中文阅读HackerNews和AI论文
+
 
     - title: 值得一读技术博客
       logo: 
@@ -206,17 +176,6 @@
       logo: 
       url: https://hn.trieve.ai/
       description: HackerNews 检索版
-
-    - title: zeli.app
-      logo: 
-      url: https://zeli.app/zh
-      description: 用中文阅读HackerNews和AI论文
-
-
-    - title: Gary Halbert’s Boron Letters 
-      logo: 
-      url: https://morgancrozier.com/boron-letters/
-      description: All Of Gary Halbert’s Boron Letters From Prison 
 
 
     - title: plough
@@ -965,56 +924,96 @@
 
 
 
-- taxonomy: Misc tools
+- taxonomy: Tools
   icon: fa-solid fa-wrench
-  links: 
-    - title: freedium.cfd
-      logo: 
-      url: https://freedium.cfd/
-      description: Your paywall breakthrough for Medium!
+  - term: 杂项工具  
+    - links: 
+      - title: freedium.cfd
+        logo: 
+        url: https://freedium.cfd/
+        description: Your paywall breakthrough for Medium!
+  
+      - title: readmedium.com
+        logo: 
+        url: https://readmedium.com/
+        description: Your paywall breakthrough for Medium!
+  
+      - title: ascii画图
+        logo: 
+        url: http://asciiflow.cn/
+        description: 
+      - title: 下1个好软件
+        logo: 
+        url: https://x1g.la/
+        description: 分享实用好玩软件
+      - title: 那些免费的砖
+        logo: 
+        url: https://www.thosefree.com/apps
+        description: 优雅地白嫖各种免费资源
+      - title: jetbrains 全家桶
+        logo: 
+        url: http://jets.idejihuo.com/
+        description: 
+      - title: qq浏览器工具箱
+        logo: 
+        url: https://tool.browser.qq.com/
+        description:       
+      - title: 哈希工具
+        logo: 
+        url: https://crypto-online.cn/playground/hash
+        description:    
+      - title: offsec.tools
+        logo: 
+        url: https://offsec.tools/
+        description:  offsec.tools is a vast listing of security tools designed to help pentesters and bug hunters in their daily task.   
+      - title: awesome-selfhosted
+        logo: 
+        url: https://github.com/awesome-selfhosted/awesome-selfhosted
+        description:     
+      - title: Sysinternals
+        logo: 
+        url: https://learn.microsoft.com/en-us/sysinternals/
+        description: windows 官方工具集合    
 
-    - title: readmedium.com
-      logo: 
-      url: https://readmedium.com/
-      description: Your paywall breakthrough for Medium!
-
-    - title: ascii画图
-      logo: 
-      url: http://asciiflow.cn/
-      description: 
-    - title: 下1个好软件
-      logo: 
-      url: https://x1g.la/
-      description: 分享实用好玩软件
-    - title: 那些免费的砖
-      logo: 
-      url: https://www.thosefree.com/apps
-      description: 优雅地白嫖各种免费资源
-    - title: jetbrains 全家桶
-      logo: 
-      url: http://jets.idejihuo.com/
-      description: 
-    - title: qq浏览器工具箱
-      logo: 
-      url: https://tool.browser.qq.com/
-      description:       
-    - title: 哈希工具
-      logo: 
-      url: https://crypto-online.cn/playground/hash
-      description:    
-    - title: offsec.tools
-      logo: 
-      url: https://offsec.tools/
-      description:  offsec.tools is a vast listing of security tools designed to help pentesters and bug hunters in their daily task.   
-    - title: awesome-selfhosted
-      logo: 
-      url: https://github.com/awesome-selfhosted/awesome-selfhosted
-      description:     
-    - title: Sysinternals
-      logo: 
-      url: https://learn.microsoft.com/en-us/sysinternals/
-      description: windows 官方工具集合    
-
+    - term: AI 工具
+      links:            
+        - title: 一译
+          logo: 
+          url: https://yiyibooks.cn/
+          description: 在线论文翻译。中英文对照。       
+        - title: lexica.art
+          logo: 
+          url: https://lexica.art/
+          description:  The state of the art AI image generation engine.
+        - title: AI 工具箱合集
+          logo: 
+          url: https://ai.nancheng.fun/
+          description:  
+        - title: AI咒术生成器
+          logo: 
+          url: https://tag.redsex.cc/
+          description:  
+        - title: 多种草
+          logo: 
+          url: https://duozhongcao.com/
+          description: 小红书文案AI生成器 
+        - title: segment-anything.com
+          logo: 
+          url: https://segment-anything.com/
+          description:  
+        - title: replicate.com
+          logo: 
+          url: https://replicate.com/explore
+          description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code. 
+        - title: vavebg.com
+          logo: 
+          url: https://vavebg.com/
+          description: 纯AI生成的壁纸
+        - title: stockcake
+          logo: 
+          url: https://stockcake.com/        
+          description: 无版权AI生成图片库
+  
 
 - taxonomy: Maps
   icon: fa fa-map-marker
