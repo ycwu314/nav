@@ -29,6 +29,15 @@
       url: https://doodles.google/
       description: 
 
+- taxonomy: 量化交易
+  icon: fa fa-rocket
+  list:
+    - term: 教程
+      links:   
+        - title: whale-quant 教程
+          logo: 
+          url: https://datawhalechina.github.io/whale-quant/#/
+          description: 
 
 - taxonomy: AI
   icon: fa fa-rocket
