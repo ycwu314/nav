@@ -649,6 +649,11 @@
           url: https://leadership.garden/
           description:    
 
+        - title: Learn About Batteries
+          logo: 
+          url: https://batteryuniversity.com/articles
+          description: 电池教程   
+
 - taxonomy: VPS
   icon: fa-desktop
   list:
