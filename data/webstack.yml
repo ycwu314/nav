@@ -20,10 +20,7 @@
       logo: 
       url: https://www.abortretry.fail/archive?sort=new
       description: Abort Retry Fail is a publication that focuses on computing history.
-    - title: fabulous.systems
-      logo: 
-      url: https://fabulous.systems/
-      description: 计算机考古
+
     - title: doodles.google
       logo: 
       url: https://doodles.google/
@@ -237,6 +234,11 @@
       logo: 
       url: http://learn.lianglianglee.com/
       description: 一大堆在线课程电子版
+
+    - title: 萝卜头IT论坛
+      logo: 
+      url: https://bbs.luobotou.org/bstra/
+      description: 
     
       
     - title: 笛卡
