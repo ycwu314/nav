@@ -366,7 +366,17 @@
       logo: 
       url: https://makerworld.com/zh
       description: 免费下载3d打印模型
-      
+
+    - title: "Reverse Engineering For Everyone!"
+      logo: 
+      url: https://0xinfection.github.io/reversing/
+      description: 
+
+    - title: "《系统设计面试：内幕指南（第二卷）》"
+      logo: 
+      url: https://learning-guide.gitbook.io/system-design-interview      
+      description: 
+
 
 - taxonomy: Blockchain
   icon: fa fa-btc
