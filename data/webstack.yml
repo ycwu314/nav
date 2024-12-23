@@ -230,6 +230,13 @@
       description: 
 
 
+    - title: 排序算法可视化
+      logo: 
+      url: https://mszula.github.io/visual-sorting/
+      description: 
+
+
+
     - title: 技术摘抄
       logo: 
       url: http://learn.lianglianglee.com/
@@ -466,6 +473,11 @@
           logo: 
           url: https://www.math3d.org/
           description: 在线三维数学工具
+
+        - title: 看见概率论
+          logo: 
+          url: https://probability.visualized.fun/
+          description: 
 
     - term: 物理
       links: 
