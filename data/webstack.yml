@@ -384,6 +384,11 @@
       url: https://learning-guide.gitbook.io/system-design-interview      
       description: 
 
+    - title: 1000 行代码的操作系统
+      logo: 
+      url: https://operating-system-in-1000-lines.vercel.app/zh/
+      description: 
+
 
 - taxonomy: Blockchain
   icon: fa fa-btc
