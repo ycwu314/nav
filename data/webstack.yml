@@ -688,10 +688,14 @@
   list:
     - term: VPS info
       links: 
-        - title: hostloc
+        - title: NodeSeek
           logo: 
-          url: https://hostloc.com/forum-45-1.html?d=4
-          description: 全球主机论坛
+          url: https://www.nodeseek.com/
+          description: 
+        - title: v2ex vps节点
+          logo: 
+          url: https://www.v2ex.com/go/vps?p=1
+          description:           
         - title: vps小白
           logo: 
           url: https://vpsxb.net/
@@ -708,11 +712,10 @@
           logo: 
           url: http://www.vpsxxs.com/
           description: 
-        - title: v2ex vps节点
+        - title: hostloc
           logo: 
-          url: https://www.v2ex.com/go/vps?p=1
-          description: 
-
+          url: https://hostloc.com/forum-45-1.html?d=4
+          description: 全球主机论坛
 
     - term: VPS vendors
       links: 
