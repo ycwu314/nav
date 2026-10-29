@@ -49,10 +49,6 @@
           logo: 
           url: https://poe.com/
           description: 
-        - title: llama3.dev
-          logo: 
-          url: https://llama3.dev/
-          description: 
         - title: Meta AI
           logo: 
           url: https://www.meta.ai/
@@ -109,10 +105,6 @@
           logo: 
           url: https://course.fast.ai/
           description: A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.            
-        - title: 机器学习编译
-          logo: 
-          url: https://mlc.ai/zh/
-          description:  
         - title: ML-For-Beginners
           logo: 
           url: https://github.com/microsoft/ML-For-Beginners
@@ -172,16 +164,8 @@
       description: 用中文阅读HackerNews和AI论文
 
 
-    - title: 值得一读技术博客
-      logo: 
-      url: https://daily-blog.chlinlearn.top/blogs
-      description: 
 
 
-    - title: Trieve HN Discovery
-      logo: 
-      url: https://hn.trieve.ai/
-      description: HackerNews 检索版
 
 
     - title: plough
@@ -248,10 +232,6 @@
       description: 
     
       
-    - title: 笛卡
-      logo: 
-      url: https://dizkaz.com/
-      description: 
       
     - title: 张大春泡新闻
       logo: 
@@ -313,10 +293,6 @@
       logo: 
       url: https://www.acwifi.net/
       description: 路由器交流         
-    - title: Top100 极术专栏
-      logo: 
-      url: https://aijishu.com/blogs/channel/all?page=1
-      description: 
     - title: 秋水逸冰
       logo: 
       url: https://teddysun.com/
@@ -358,10 +334,6 @@
       url: https://www.smashingmagazine.com/
       description: For web designers and developer.
       
-    - title: LiveVideoStack
-      logo: 
-      url: https://livevideostack.cn/
-      description: 
 
 
     - title: ihavenotv.com 
@@ -435,10 +407,6 @@
           logo: 
           url: https://chainlist.org/
           description: Chainlist is a list of EVM networks.
-        - title: cointool 区块链工具合集
-          logo: 
-          url: https://cointool.app/dashboard
-          description:
 
 
 
@@ -465,10 +433,6 @@
           logo: 
           url: https://cp-algorithms.com/
           description: 
-        - title: The Algorithms
-          logo: 
-          url: https://the-algorithms.com/zh_Hans
-          description: 
         - title: "Probabilistic Machine Learning: Advanced Topics"
           logo: 
           url: https://probml.github.io/pml-book/book2.html
@@ -493,10 +457,6 @@
 
     - term: 计算机（others）
       links:   
-        - title: Trending Papers
-          logo: 
-          url: https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories
-          description:  
 
         - title: 深入架构原理和实践
           logo: 
@@ -601,14 +561,6 @@
           logo: 
           url: http://www.cnxct.com/
           description: ecapture作者的blog。信息安全，ebpf，etc
-        - title: 刘未鹏 | Mind Hacks
-          logo: 
-          url: http://mindhacks.cn/
-          description: 停更状态
-        - title: coolshell
-          logo: 
-          url: https://coolshell.cn/
-          description: 停更状态
         - title: 云风的 BLOG
           logo: 
           url: https://blog.codingnow.com/
@@ -660,7 +612,7 @@
           description: 
         - title: 走出去公共服务平台
           logo: 
-          url: http://fec.mofcom.gov.cn/article/gbdqzn/
+          url: https://hzf.mofcom.gov.cn/
           description: 外贸数据
 
         - title: Learning Music
@@ -754,14 +706,6 @@
 - taxonomy: Film & Video
   icon: fa-solid fa-film
   links: 
-    - title: 海绵小站
-      logo: 
-      url: https://www.kkapik.com/
-      description: 
-    - title: 海绵小站 alist
-      logo: 
-      url: https://alist.kkapik.com/  
-      description:       
     - title: 海绵小站（备用）
       logo: 
       url: https://haimian.eu.org/
@@ -774,10 +718,6 @@
       logo: 
       url: https://yunpan1.cc/
       description:     
-    - title: 阿里云盘 - 85部高码率美剧合集
-      logo: 
-      url: https://yunpan1.cc/d/8507-85
-      description:   
     - title: 阿里云盘 - 资源大合集
       logo: 
       url: https://kuaikan.ink/thread-549.htm
@@ -786,14 +726,6 @@
       logo: 
       url: https://slowread.net/ali101.html
       description:         
-    - title: 阿里云盘 - 资源大合集 63T
-      logo: 
-      url: https://www.panpanr.top/thread-17453-1-1.html
-      description:   
-    - title: 资源潭
-      logo: 
-      url: https://ziyuantan.com/
-      description: 解压密码 123456ABC    
     - title: AnyBT
       logo: 
       url: https://anybt.eth.limo/
@@ -827,10 +759,6 @@
       logo: 
       url: http://www.acgjc.com/
       description: 
-    - title: MusicEnc-Search
-      logo: 
-      url: https://www.musicenc.com/
-      description: 
 
 
 - taxonomy: ebook
@@ -851,10 +779,6 @@
       url: https://book.tstrs.me/
       description: 
 
-    - title: 汇书网
-      logo: 
-      url: https://www.huibooks.com/
-      description: 
 
 
     - title: 尔书
@@ -1027,22 +951,6 @@
           logo: 
           url: https://lexica.art/
           description:  The state of the art AI image generation engine.
-        - title: AI 工具箱合集
-          logo: 
-          url: https://ai.nancheng.fun/
-          description:  
-        - title: AI咒术生成器
-          logo: 
-          url: https://tag.redsex.cc/
-          description:  
-        - title: 多种草
-          logo: 
-          url: https://duozhongcao.com/
-          description: 小红书文案AI生成器 
-        - title: segment-anything.com
-          logo: 
-          url: https://segment-anything.com/
-          description:  
         - title: replicate.com
           logo: 
           url: https://replicate.com/explore
