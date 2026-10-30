@@ -861,20 +861,12 @@
   list:
     - term: 杂项工具  
       links: 
-        - title: freedium.cfd
-          logo: 
-          url: https://freedium.cfd/
-          description: Your paywall breakthrough for Medium!
     
         - title: readmedium.com
           logo: 
           url: https://readmedium.com/
           description: Your paywall breakthrough for Medium!
     
-        - title: ascii画图
-          logo: 
-          url: http://asciiflow.cn/
-          description: 
         - title: 下1个好软件
           logo: 
           url: https://x1g.la/
